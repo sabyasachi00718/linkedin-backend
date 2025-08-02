@@ -1,0 +1,21 @@
+{
+  "name": "linkedin-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabyasachi00718/linkedin-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabyasachi00718/linkedin-backend/issues"
+  },
+  "homepage": "https://github.com/sabyasachi00718/linkedin-backend#readme",
+  "description": ""
+}
